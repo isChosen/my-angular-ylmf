@@ -1,0 +1,6 @@
+
+{
+    "/girls": {
+        "target": "http://localhost:8030"
+    }
+}
